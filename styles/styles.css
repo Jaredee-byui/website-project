@@ -1,0 +1,18 @@
+
+:root{
+    /* CSS HEX */
+    --black: #000000ff;
+    --vivid-sky-blue: #2ecfffff;
+    --celeste: #c0ffffff;
+    --spring-green: #1bff80ff;
+    --xanthous: #ffb641ff;
+
+    /* CSS HSL */
+    --black: hsla(0, 0%, 0%, 1);
+    --vivid-sky-blue: hsla(194, 100%, 59%, 1);
+    --celeste: hsla(180, 100%, 88%, 1);
+    --spring-green: hsla(147, 100%, 55%, 1);
+    --xanthous: hsla(37, 100%, 63%, 1);
+}
+
+
